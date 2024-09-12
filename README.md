@@ -1,4 +1,4 @@
-Compétence acquise ? 
+Compétence acquises ? 
  
 
 - L'optimisation du référencement (SEO) et de l'accessibilité sont des compétences cruciales dans le développement web. 
